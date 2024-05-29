@@ -1,0 +1,7 @@
+   {
+    "csv_path_livre": "./include/dataLivre.csv",
+    "link_api" : "https://www.googleapis.com/books/v1/volumes",
+    "key_api" : "AIzaSyDLL3CRwM2_DF-bRow-WYv8yYzBEZQuBzQ",
+    "csv_path_book" : "include/dataLivre.csv"
+
+   }
